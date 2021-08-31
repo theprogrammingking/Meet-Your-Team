@@ -8,7 +8,7 @@ export default function HomeScreen() {
       <div className="row welcome">
         <div className="col s12 m12 l7">
           <h3>
-            Welcome to <span>Meet Your Team</span>
+            Welcome to <span>splash</span>
           </h3>
           <p>
             Grow and learn with your team here! <br />
